@@ -1,7 +1,7 @@
 import React from "react";
 import Home from "./components/Home";
-import AddUser from "./components/AddUser";
-import EditUser from "./components/EditUser";
+import { AddUser } from "./components/AddUser";
+import { EditUser } from "./components/EditUser";
 
 import "bootstrap/dist/css/bootstrap.min.css";
 
